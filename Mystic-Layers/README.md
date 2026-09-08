@@ -42,7 +42,7 @@ The design focuses on creating a visually appealing experience while keeping nav
 
 ## Screens
 
-![Mystic Layers Mobile App](./Mystic-Layers-Mobile-App.png)
+https://github.com/FathimaNishath/UI-UX-Design-Projects/blob/main/Mystic-Layers/Mystic-Layers-Mobile-App.png
 
 ## Tools
 
