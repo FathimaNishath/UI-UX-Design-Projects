@@ -50,4 +50,4 @@ https://github.com/FathimaNishath/UI-UX-Design-Projects/blob/main/Mystic-Layers/
   
 ## Prototype
 
-https://www.figma.com/proto/kL17j3rNUiTqU4KkoQqZya/Final-Project--Module-end-assignment-1---3--Assignment-6?node-id=748-365&viewport=-716%2C-244%2C0.05&t=7Qd9KmSwrHfGt7Cd-1&scaling=scale-down&content-scaling=fixed&page-id=109%3A2&starting-point-node-id=762%3A131&show-proto-sidebar=1
+https://www.figma.com/proto/kL17j3rNUiTqU4KkoQqZya/Cake-App?node-id=735-4100&viewport=-959%2C-171%2C0.07&t=vLIsoUJ3lYtQB5aJ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=762%3A131&show-proto-sidebar=1&page-id=109%3A2
