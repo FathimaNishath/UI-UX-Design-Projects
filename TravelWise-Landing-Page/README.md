@@ -49,5 +49,3 @@ The design was created for three screen sizes:
 ## Prototyping
 
 https://www.figma.com/proto/5O10dJtBgcLesTYa0MXQ96/Projects?node-id=285-5219&viewport=117%2C116%2C0.2&t=vZyRYGOK9N41TOHV-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-https://www.figma.com/proto/5O10dJtBgcLesTYa0MXQ96/Projects?node-id=285-5381&viewport=117%2C116%2C0.2&t=vZyRYGOK9N41TOHV-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-https://www.figma.com/proto/5O10dJtBgcLesTYa0MXQ96/Projects?node-id=285-5534&viewport=117%2C116%2C0.2&t=vZyRYGOK9N41TOHV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
